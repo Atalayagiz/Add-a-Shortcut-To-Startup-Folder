@@ -1,0 +1,10 @@
+C:\Users\ygzat\source\repos\C#\Add_To_Startup\Add_To_Startup\bin\Debug\Add_To_Startup.exe.config
+C:\Users\ygzat\source\repos\C#\Add_To_Startup\Add_To_Startup\bin\Debug\Add_To_Startup.exe
+C:\Users\ygzat\source\repos\C#\Add_To_Startup\Add_To_Startup\bin\Debug\Add_To_Startup.pdb
+C:\Users\ygzat\source\repos\C#\Add_To_Startup\Add_To_Startup\obj\Debug\Add_To_Startup.csproj.AssemblyReference.cache
+C:\Users\ygzat\source\repos\C#\Add_To_Startup\Add_To_Startup\obj\Debug\Add_To_Startup.Form1.resources
+C:\Users\ygzat\source\repos\C#\Add_To_Startup\Add_To_Startup\obj\Debug\Add_To_Startup.Properties.Resources.resources
+C:\Users\ygzat\source\repos\C#\Add_To_Startup\Add_To_Startup\obj\Debug\Add_To_Startup.csproj.GenerateResource.cache
+C:\Users\ygzat\source\repos\C#\Add_To_Startup\Add_To_Startup\obj\Debug\Add_To_Startup.csproj.CoreCompileInputs.cache
+C:\Users\ygzat\source\repos\C#\Add_To_Startup\Add_To_Startup\obj\Debug\Add_To_Startup.exe
+C:\Users\ygzat\source\repos\C#\Add_To_Startup\Add_To_Startup\obj\Debug\Add_To_Startup.pdb
